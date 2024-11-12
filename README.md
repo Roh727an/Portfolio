@@ -41,29 +41,6 @@ To view and edit the portfolio locally on your machine, follow these steps:
 2.  **Open the HTML file**:Open index.html in your preferred web browser to view the portfolio.
     
 
-File Structure 📂
------------------
-
-*   index.html: The main HTML file with the structure of the portfolio.
-    
-*   style.css: The CSS file responsible for styling the layout, fonts, and animations.
-    
-*   script.js: The JavaScript file adding interactivity, such as the typing effect and contact form functionality.
-    
-
-How to Customize ✨
-------------------
-
-To make this portfolio your own, you can:
-
-*   **Update Content**: Modify index.html to update sections like About Me, Projects, and Contact.
-    
-*   **Style Changes**: Adjust styles in style.css to personalize colors, fonts, and layout.
-    
-*   **Add More Projects**: Update the Projects section in index.html to showcase additional work.
-    
-*   **Add Functionalities**: Use script.js to add more interactive features.
-    
 
 Future Improvements 🛠️
 -----------------------
@@ -74,13 +51,3 @@ Future Improvements 🛠️
     
 *   **Enhanced Security**: Implement advanced security practices for a more secure experience.
     
-
-Demo 📸
--------
-
-View a live demo of my portfolio at [Your Portfolio URL](https://yourportfolio.com).
-
-Contact 📫
-----------
-
-Feel free to reach out via the contact form on the website, or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
