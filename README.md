@@ -36,7 +36,7 @@ Getting Started 🚀
 
 To view and edit the portfolio locally on your machine, follow these steps:
 
-1.  bashCopy codegit clone https://github.com/yourusername/portfolio.gitcd portfolio
+1.  bashCopy codegit clone [https://github.com/yourusername/portfolio.gitc](https://roh727an.github.io/Portfolio/) portfolio
     
 2.  **Open the HTML file**:Open index.html in your preferred web browser to view the portfolio.
     
